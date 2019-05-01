@@ -1,0 +1,5 @@
+﻿  Exception.cpp
+  main.cpp
+c:\users\jareth\source\repos\sorts\sorts\main.cpp(95): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Sorts.vcxproj -> C:\Users\jareth\source\repos\Sorts\x64\Debug\Sorts.exe
